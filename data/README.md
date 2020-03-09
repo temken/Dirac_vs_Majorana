@@ -1,0 +1,1 @@
+This folder should contain the four folder with the tabulated atomic response functions, i.e. */atomic_response_i*, with i=1,...,4.

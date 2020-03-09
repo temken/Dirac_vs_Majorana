@@ -1,0 +1,12 @@
+bin/Dirac_vs_Majorana
+
+*.DS_Store
+.depend
+
+# Ignore build files
+*.o
+
+# Ignore codecove files
+*.gcov
+*.gcda
+*.gcno
