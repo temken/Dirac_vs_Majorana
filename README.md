@@ -4,8 +4,10 @@
 
 # Dirac vs Majorana dark matter
 
-<!-- [![DOI](https://zenodo.org/badge/XXXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3701262.svg)](https://doi.org/10.5281/zenodo.3701262)
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-2003.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2003.xxxxx) -->
+
+Statistical discrimination of sub-GeV Majorana and Dirac dark matter at direct detection experiments.
 
 <img src="https://user-images.githubusercontent.com/29034913/76204669-209afa80-61f9-11ea-9cbc-3481bada2e1c.png" width="800">
 
@@ -56,7 +58,7 @@ deletes all object files and executables.
 
 If you decide to use this code, please cite the latest archived version,
 
-> [[DOI:10.5281/zenodo.XXXXXXXX]](https://doi.org/10.5281/zenodo.XXXXXXXX)
+> [[DOI:10.5281/zenodo.3701262]](https://doi.org/10.5281/zenodo.3701262)
 
 as well as the original publications,
 
