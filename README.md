@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/temken/XXX.svg?token=CWyAeZfiHMD8t4eitDid&branch=master)](https://travis-ci.com/temken/XXX)
+[![Build Status](https://travis-ci.com/temken/Dirac_vs_Majorana.svg?branch=master)](https://travis-ci.com/temken/Dirac_vs_Majorana)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -7,7 +7,7 @@
 <!-- [![DOI](https://zenodo.org/badge/XXXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXXXXX) -->
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-2003.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2003.xxxxx) -->
 
-<!-- <img src="url" width="800"> -->
+<img src="https://user-images.githubusercontent.com/29034913/76204669-209afa80-61f9-11ea-9cbc-3481bada2e1c.png" width="800">
 
 ## GENERAL NOTES
 
