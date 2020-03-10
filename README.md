@@ -5,7 +5,7 @@
 # Dirac vs Majorana dark matter
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3701262.svg)](https://doi.org/10.5281/zenodo.3701262)
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2003.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2003.xxxxx) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2003.04039-B31B1B.svg)](https://arxiv.org/abs/2003.04039)
 
 Statistical discrimination of sub-GeV Majorana and Dirac dark matter at direct detection experiments.
 
@@ -62,11 +62,11 @@ If you decide to use this code, please cite the latest archived version,
 
 as well as the original publications,
 
->Catena, R., Emken, T. , Ravanis J., **Rejecting the Majorana nature of dark matter with electron scattering experiments**, [[arXiv:2003.xxxxx]](https://arxiv.org/abs/2003.xxxxx).
+>Catena, R., Emken, T. , Ravanis J., **Rejecting the Majorana nature of dark matter with electron scattering experiments**, [[arXiv:2003.04039]](https://arxiv.org/abs/2003.04039).
 
 ## VERSIONS
 
-- **v1.0** (06/03/2020): Version released with v1 of the preprint [[arXiv:2003.xxxxxv1]](https://arxiv.org/abs/2003.xxxxxv1).
+- **v1.0** (06/03/2020): Version released with v1 of the preprint [[arXiv:2003.04039v1]](https://arxiv.org/abs/2003.04039v1).
 
 ## AUTHORS & CONTACT
 
