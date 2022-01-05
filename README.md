@@ -4,6 +4,7 @@
 
 # Dirac vs Majorana dark matter
 
+<a href="https://ascl.net/2112.012"><img src="https://img.shields.io/badge/ascl-2112.012-blue.svg?colorB=262255" alt="ascl:2112.012" /></a>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3701262.svg)](https://doi.org/10.5281/zenodo.3701262)
 [![arXiv](https://img.shields.io/badge/arXiv-2003.04039-B31B1B.svg)](https://arxiv.org/abs/2003.04039)
 
